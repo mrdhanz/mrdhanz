@@ -1,4 +1,4 @@
-# Hi there 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrdhanz&count_bg=%23A530CD&title_bg=%23333333&icon=processwire.svg&icon_color=%23FFFFFF&title=mrdhanz&edge_flat=false)](https://github.com/mrdhanz/)
+# Hi there 👋 
 <br>
 I am a Computer Scientist interested in Web3 and something new Technologies.
 
