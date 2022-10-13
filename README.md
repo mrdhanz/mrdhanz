@@ -16,7 +16,3 @@ My favorite ones are Golang, Node.js, React, Next.js and Docker.
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="docker Logo" alt="docker Logo" width="80"/>&emsp;
 
  <br>
-
-![X Punch](https://github-readme-stats-one-bice.vercel.app/api?username=mrdhanz&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula)
-
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=xpunch&hide=less,css&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula)
