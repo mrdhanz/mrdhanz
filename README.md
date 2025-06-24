@@ -1,6 +1,6 @@
 # Hi there 👋 
 <br>
-I am a Computer Scientist interested in Web3 and something new Technologies.
+I am a Full-stack Developer interested in Web3 and something new Technologies.
 
 Currently, I work at office and sometimes remotely.
 
