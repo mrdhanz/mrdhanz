@@ -1,6 +1,7 @@
 # Hi there 👋 
-<br>
-I am a Full-stack Developer interested in Web3 and something new Technologies.
+## 🚀 Full-stack Developer
+
+I’m passionate about building scalable, efficient, and secure applications, from backend services to pixel-perfect frontends.
 
 Currently, I work at office and sometimes remotely.
 
