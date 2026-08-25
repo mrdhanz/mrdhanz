@@ -18,10 +18,4 @@ My favorite ones are Golang, Node.js, React, Next.js and Docker.
 
  <br>
 
-## 🌐 Find me online
-<img src="https://assets.showwcase.com/landing-page/svg/logo.svg" title="SHOWWCASE" alt="SHOWWCASE Logo" width="32"/>&emsp;
-[SHOWWCASE](https://ckpw.my.id)
-
----
-
 _Always learning, always building. Feel free to connect or check out my projects!_
